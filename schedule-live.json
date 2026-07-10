@@ -786,8 +786,8 @@
       "displayTime": "16:00",
       "home": "Espanha",
       "away": "Bélgica",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "extraTime": {
         "home": null,
         "away": null
@@ -799,7 +799,7 @@
       "qualifiedTeam": null,
       "decidedBy": null,
       "scoreText": null,
-      "status": "AGENDADO",
+      "status": "ENCERRADO",
       "minute": "",
       "isConfirmed": true,
       "homeTBD": false,
