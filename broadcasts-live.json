@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-07-10T00:40:00-03:00",
+  "source": "manual_cazetv_links_remaining_knockout",
+  "broadcasts": [
+    {
+      "matchNumber": 97,
+      "stage": "Quartas de final",
+      "date": "2026-07-09",
+      "time": "17:00",
+      "home": "França",
+      "away": "Marrocos",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": "https://www.youtube.com/watch?v=WP7qXzta_a0&t=15125s"
+    },
+    {
+      "matchNumber": 98,
+      "stage": "Quartas de final",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "home": "Espanha",
+      "away": "Bélgica",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": "https://www.youtube.com/watch?v=54apQSJpf0A"
+    },
+    {
+      "matchNumber": 99,
+      "stage": "Quartas de final",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "home": "Noruega",
+      "away": "Inglaterra",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": "https://www.youtube.com/watch?v=Mh9xGj3XOPM"
+    },
+    {
+      "matchNumber": 100,
+      "stage": "Quartas de final",
+      "date": "2026-07-11",
+      "time": "22:00",
+      "home": "Argentina",
+      "away": "Suíça",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": "https://www.youtube.com/watch?v=8nQWMkCOET4"
+    },
+    {
+      "matchNumber": 101,
+      "stage": "Semifinal",
+      "date": "2026-07-14",
+      "time": "16:00",
+      "home": "França",
+      "away": "Espanha/Bélgica",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": ""
+    },
+    {
+      "matchNumber": 102,
+      "stage": "Semifinal",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "home": "Noruega/Inglaterra",
+      "away": "Argentina/Suíça",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": ""
+    },
+    {
+      "matchNumber": 103,
+      "stage": "Disputa de terceiro lugar",
+      "date": "2026-07-18",
+      "time": "18:00",
+      "home": "Perdedor do jogo 101",
+      "away": "Perdedor do jogo 102",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": ""
+    },
+    {
+      "matchNumber": 104,
+      "stage": "Final",
+      "date": "2026-07-19",
+      "time": "16:00",
+      "home": "Vencedor do jogo 101",
+      "away": "Vencedor do jogo 102",
+      "provider": "CazéTV",
+      "label": "Assistir na CazéTV",
+      "watchUrl": ""
+    }
+  ]
+}
