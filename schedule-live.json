@@ -820,8 +820,8 @@
       "homeScore": 1,
       "awayScore": 1,
       "extraTime": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "penalties": {
         "home": null,
