@@ -818,7 +818,7 @@
       "home": "Noruega",
       "away": "Inglaterra",
       "homeScore": 1,
-      "awayScore": null,
+      "awayScore": 0,
       "extraTime": {
         "home": null,
         "away": null
