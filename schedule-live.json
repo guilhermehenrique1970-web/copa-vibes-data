@@ -817,7 +817,7 @@
       "displayTime": "18:00",
       "home": "Noruega",
       "away": "Inglaterra",
-      "homeScore": null,
+      "homeScore": 1,
       "awayScore": null,
       "extraTime": {
         "home": null,
