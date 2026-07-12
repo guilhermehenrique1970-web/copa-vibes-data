@@ -851,8 +851,8 @@
       "homeScore": 1,
       "awayScore": 1,
       "extraTime": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "penalties": {
         "home": null,
@@ -861,7 +861,7 @@
       "qualifiedTeam": null,
       "decidedBy": null,
       "scoreText": null,
-      "status": "AO VIVO",
+      "status": "ENCERRADO",
       "minute": "",
       "isConfirmed": true,
       "homeTBD": false,
