@@ -848,8 +848,8 @@
       "displayTime": "22:00",
       "home": "Argentina",
       "away": "Suíça",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "extraTime": {
         "home": null,
         "away": null
