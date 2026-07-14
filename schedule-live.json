@@ -879,8 +879,8 @@
       "displayTime": "16:00",
       "home": "França",
       "away": "Espanha",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "extraTime": {
         "home": null,
         "away": null
