@@ -872,126 +872,128 @@
       "city": "TBD"
     },
     {
-  "matchNumber": 101,
-  "stage": "Semifinal",
-  "date": "2026-07-14",
-  "time": "16:00",
-  "displayTime": "16:00",
-  "home": "França",
-  "away": "Espanha",
-  "homeScore": 0,
-  "awayScore": 0,
-  "extraTime": {
-    "home": null,
-    "away": null
-  },
-  "penalties": {
-    "home": null,
-    "away": null
-  },
-  "qualifiedTeam": null,
-  "decidedBy": null,
-  "scoreText": null,
-  "status": "AO VIVO",
-  "minute": "6",
-  "isConfirmed": true,
-  "homeTBD": false,
-  "awayTBD": false,
-  "homeFlagIcon": "../assets/flags/fr.svg",
-  "awayFlagIcon": "../assets/flags/es.svg",
-  "venue": "Dallas Stadium",
-  "city": "Dallas"
-},
-{
-  "matchNumber": 102,
-  "stage": "Semifinal",
-  "date": "2026-07-15",
-  "time": "16:00",
-  "displayTime": "16:00",
-  "home": "Inglaterra",
-  "away": "Argentina",
-  "homeScore": null,
-  "awayScore": null,
-  "extraTime": {
-    "home": null,
-    "away": null
-  },
-  "penalties": {
-    "home": null,
-    "away": null
-  },
-  "qualifiedTeam": null,
-  "decidedBy": null,
-  "scoreText": null,
-  "status": "AGENDADO",
-  "minute": "",
-  "isConfirmed": true,
-  "homeTBD": false,
-  "awayTBD": false,
-  "homeFlagIcon": "../assets/flags/gb-eng.svg",
-  "awayFlagIcon": "../assets/flags/ar.svg",
-  "venue": "Atlanta Stadium",
-  "city": "Atlanta"
-},
-{
-  "matchNumber": 103,
-  "stage": "Disputa de 3º lugar",
-  "date": "2026-07-18",
-  "time": "18:00",
-  "displayTime": "18:00",
-  "home": "A definir",
-  "away": "A definir",
-  "homeScore": null,
-  "awayScore": null,
-  "extraTime": {
-    "home": null,
-    "away": null
-  },
-  "penalties": {
-    "home": null,
-    "away": null
-  },
-  "qualifiedTeam": null,
-  "decidedBy": null,
-  "scoreText": null,
-  "status": "AGENDADO",
-  "minute": "",
-  "isConfirmed": false,
-  "homeTBD": true,
-  "awayTBD": true,
-  "homeFlagIcon": "../assets/flags/tbd.svg",
-  "awayFlagIcon": "../assets/flags/tbd.svg",
-  "venue": "Miami Stadium",
-  "city": "Miami"
-},
-{
-  "matchNumber": 104,
-  "stage": "Final",
-  "date": "2026-07-19",
-  "time": "16:00",
-  "displayTime": "16:00",
-  "home": "A definir",
-  "away": "A definir",
-  "homeScore": null,
-  "awayScore": null,
-  "extraTime": {
-    "home": null,
-    "away": null
-  },
-  "penalties": {
-    "home": null,
-    "away": null
-  },
-  "qualifiedTeam": null,
-  "decidedBy": null,
-  "scoreText": null,
-  "status": "AGENDADO",
-  "minute": "",
-  "isConfirmed": false,
-  "homeTBD": true,
-  "awayTBD": true,
-  "homeFlagIcon": "../assets/flags/tbd.svg",
-  "awayFlagIcon": "../assets/flags/tbd.svg",
-  "venue": "New York New Jersey Stadium",
-  "city": "New York/New Jersey"
+      "matchNumber": 101,
+      "stage": "Knockout",
+      "date": "2026-07-14",
+      "time": "16:00",
+      "displayTime": "16:00",
+      "home": "França",
+      "away": "Espanha",
+      "homeScore": null,
+      "awayScore": null,
+      "extraTime": {
+        "home": null,
+        "away": null
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "qualifiedTeam": null,
+      "decidedBy": null,
+      "scoreText": null,
+      "status": "AO VIVO",
+      "minute": "",
+      "isConfirmed": false,
+      "homeTBD": true,
+      "awayTBD": true,
+      "homeFlagIcon": "../assets/flags/tbd.svg",
+      "awayFlagIcon": "../assets/flags/tbd.svg",
+      "venue": "Dallas Stadium",
+      "city": "TBD"
+    },
+    {
+      "matchNumber": 102,
+      "stage": "Knockout",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "displayTime": "16:00",
+      "home": "A definir",
+      "away": "A definir",
+      "homeScore": null,
+      "awayScore": null,
+      "extraTime": {
+        "home": null,
+        "away": null
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "qualifiedTeam": null,
+      "decidedBy": null,
+      "scoreText": null,
+      "status": "AGENDADO",
+      "minute": "",
+      "isConfirmed": false,
+      "homeTBD": true,
+      "awayTBD": true,
+      "homeFlagIcon": "../assets/flags/tbd.svg",
+      "awayFlagIcon": "../assets/flags/tbd.svg",
+      "venue": "Atlanta Stadium",
+      "city": "TBD"
+    },
+    {
+      "matchNumber": 103,
+      "stage": "Knockout",
+      "date": "2026-07-18",
+      "time": "18:00",
+      "displayTime": "18:00",
+      "home": "A definir",
+      "away": "A definir",
+      "homeScore": null,
+      "awayScore": null,
+      "extraTime": {
+        "home": null,
+        "away": null
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "qualifiedTeam": null,
+      "decidedBy": null,
+      "scoreText": null,
+      "status": "AGENDADO",
+      "minute": "",
+      "isConfirmed": false,
+      "homeTBD": true,
+      "awayTBD": true,
+      "homeFlagIcon": "../assets/flags/tbd.svg",
+      "awayFlagIcon": "../assets/flags/tbd.svg",
+      "venue": "up match 102 - Miami Stadium",
+      "city": "TBD"
+    },
+    {
+      "matchNumber": 104,
+      "stage": "Knockout",
+      "date": "2026-07-19",
+      "time": "16:00",
+      "displayTime": "16:00",
+      "home": "A definir",
+      "away": "A definir",
+      "homeScore": null,
+      "awayScore": null,
+      "extraTime": {
+        "home": null,
+        "away": null
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "qualifiedTeam": null,
+      "decidedBy": null,
+      "scoreText": null,
+      "status": "AGENDADO",
+      "minute": "",
+      "isConfirmed": false,
+      "homeTBD": true,
+      "awayTBD": true,
+      "homeFlagIcon": "../assets/flags/tbd.svg",
+      "awayFlagIcon": "../assets/flags/tbd.svg",
+      "venue": "New York New Jersey Stadium",
+      "city": "TBD"
+    }
+  ]
 }
