@@ -908,10 +908,10 @@
       "date": "2026-07-15",
       "time": "16:00",
       "displayTime": "16:00",
-      "home": "A definir",
-      "away": "A definir",
-      "homeScore": null,
-      "awayScore": null,
+      "home": "INGLATERRA",
+      "away": "ARGENTINA",
+      "homeScore": 0,
+      "awayScore": 0,
       "extraTime": {
         "home": null,
         "away": null
@@ -923,7 +923,7 @@
       "qualifiedTeam": null,
       "decidedBy": null,
       "scoreText": null,
-      "status": "AGENDADO",
+      "status": "AO VIVO",
       "minute": "",
       "isConfirmed": false,
       "homeTBD": true,
