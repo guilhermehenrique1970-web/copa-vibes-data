@@ -939,10 +939,10 @@
       "date": "2026-07-18",
       "time": "18:00",
       "displayTime": "18:00",
-      "home": "A definir",
-      "away": "A definir",
-      "homeScore": null,
-      "awayScore": null,
+      "home": "França",
+      "away": "INGLATERRA",
+      "homeScore": 4,
+      "awayScore": 6,
       "extraTime": {
         "home": null,
         "away": null
@@ -954,7 +954,7 @@
       "qualifiedTeam": null,
       "decidedBy": null,
       "scoreText": null,
-      "status": "AGENDADO",
+      "status": "ENCERRADO",
       "minute": "",
       "isConfirmed": false,
       "homeTBD": true,
